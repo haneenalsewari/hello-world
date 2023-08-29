@@ -1,3 +1,3 @@
-# Hello-world
+# Hello-World
 ## About me
-**My name is Haneen AlSewari and I am majoring in *computer science*!!**
+** My name is Haneen AlSewari and I am majoring in *computer science*!! **
